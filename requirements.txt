@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF
+python-docx
+beautifulsoup4
+requests
+wordcloud
+nltk
+matplotlib
